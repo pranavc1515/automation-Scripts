@@ -1,52 +1,132 @@
 Question,Answer
-"Have you completed the following level of education: Bachelor's Degree?
-Have you completed the following level of education: Bachelor's Degree?
-Required
-Yes
-No",user provided
-"Do you have a valid driver's license?
-Do you have a valid driver's license?
-Required
-Yes
-No",user provided
-"Do you have the following license or certification: Google Cloud Certified Professional Cloud Architect?
-Do you have the following license or certification: Google Cloud Certified Professional Cloud Architect?
-Required
-Yes
-No
-Please make a selection",user provided
-"have you completed the following level of education: bachelor's degree?
-have you completed the following level of education: bachelor's degree?
-required
-yes
-no",Yes
-how many years of work experience do you have with c++?,1
-"how many years of computer games experience do you currently have?
-enter a whole number between 0 and 99",1
-"how many years of engineering experience do you currently have?
-enter a whole number between 0 and 99",1
-"how many years of work experience do you have with unreal engine?
-enter a whole number between 0 and 99",1
-"how many years utilizing unreal engine?
-enter a decimal number larger than 0.0",1
-how many years of computer games experience do you currently have?,1
-how many years of engineering experience do you currently have?,1
-how many years of work experience do you have with unreal engine?,1
-how many years utilizing unreal engine?,1
-"how many years of work experience do you have with databases?
-enter a whole number between 0 and 99",1
-"how many years of work experience do you have with business development?
-enter a whole number between 0 and 99",1
-"are you comfortable commuting to this job's location?
-are you comfortable commuting to this job's location?
-required
-yes
-no
-please make a selection",Yes
-how many years of work experience do you have with databases?,1
-how many years of work experience do you have with business development?,1
-"are you comfortable commuting to this job's location?
-are you comfortable commuting to this job's location?
-required
-yes
-no",Yes
+"Have you completed the following level of education: Bachelor's Degree? Required Yes No",Yes
+"Do you have a valid driver's license? Required Yes No",user provided
+"Do you have the following license or certification: Google Cloud Certified Professional Cloud Architect? Required Yes No Please make a selection",user provided
+"How many years of work experience do you have with C++?",1
+"How many years of computer games experience do you currently have? Enter a whole number between 0 and 99",1
+"How many years of engineering experience do you currently have? Enter a whole number between 0 and 99",1
+"How many years of work experience do you have with Unreal Engine? Enter a whole number between 0 and 99",1
+"How many years utilizing Unreal Engine? Enter a decimal number larger than 0.0",1
+"How many years of work experience do you have with databases? Enter a whole number between 0 and 99",1
+"How many years of work experience do you have with business development? Enter a whole number between 0 and 99",1
+"Are you comfortable commuting to this job's location? Required Yes No Please make a selection",Yes
+"Have you worked as a Frontend Developer?",Yes
+"Have you worked as a Jr Software Developer?",Yes
+"Have you worked as a Full Stack Developer?",Yes
+"Do you have experience with Vue.js?",Yes
+"Do you have experience with React.js?",Yes
+"Do you have experience with Nuxt.js?",Yes
+"Do you have experience with Node.js?",Yes
+"Do you have experience with MongoDB?",Yes
+"Do you have experience with HTML, CSS, and JavaScript?",Yes
+"Have you worked with Bootstrap and Tailwind CSS?",Yes
+"Do you have experience with Jira?",Yes
+"Have you managed application state with Vuex or Redux?",Yes
+"Do you have experience conducting manual testing?",Yes
+"Have you developed responsive, user-centric web interfaces?",Yes
+"Have you optimized web application performance and scalability?",Yes
+"Have you developed intuitive interfaces for a document migration SaaS product?",Yes
+"Have you contributed to full-stack development and lifecycle management using JavaScript, React, Node.js, and MongoDB?",Yes
+"Do you have experience with real-time cryptocurrency tracking apps?",Yes
+"Do you have experience with data presentation and JSON compatibility?",Yes
+"Do you have experience with GitHub for version control?",Yes
+"Are you familiar with AWS and cloud platforms?",Yes
+"Do you have experience with IntelliJ, VS Code, or PyCharm?",Yes
+"Are you familiar with agile work environments and using Jira?",Yes
+"Do you have experience with Postman for API testing?",Yes
+"Are you familiar with version control tools like Bitbucket?",Yes
+"Have you used Netlify or Firebase for deployment?",Yes
+"Do you have experience with PowerShell and SSH tools like PuTTY?",Yes
+"Have you used FileZilla for file transfer?",Yes
+"Have you developed interactive web-excel sheets?",Yes
+"Do you have experience with Chart JS and Coin Gecko API?",Yes
+"Have you contributed to a responsive app using React JS and Material UI?",Yes
+"Are you proficient in programming languages such as JavaScript, HTML, CSS, and Python?",Yes
+"Do you have experience with libraries and frameworks like Vue.js, React.js, Nuxt.js, Next.js, Node.js, Express.js, MongoDB, Bootstrap, Tailwind CSS, and Vuetify?",Yes
+"Are you familiar with tools and platforms such as Version Control, Postman, AWS, IntelliJ, VS Code, PyCharm, PowerShell, Bitbucket, PuTTY SSH, FileZilla, Jira (Agile work environment), Netlify, and Firebase?",Yes
+"Have you worked on projects involving web development, software development, or frontend/backend development?",Yes
+"Have you collaborated with cross-functional teams to optimize performance and scalability?",Yes
+"Have you participated in project management and optimized workflows using Jira?",Yes
+"Have you managed application state with tools like Vuex or Redux?",Yes
+"Have you conducted manual testing to ensure software quality?",Yes
+"Have you developed user interfaces for document migration SaaS products?",Yes
+"Have you created and customized interactive web-excel sheets?",Yes
+"Have you worked on real-time cryptocurrency tracking applications?",Yes
+"Do you have experience with JSON compatibility and data handling?",Yes
+"Are you comfortable using tools like GitHub, AWS, IntelliJ, VS Code, PyCharm, PowerShell, Bitbucket, PuTTY SSH, and FileZilla?",Yes
+"Do you have experience with deployment tools like Netlify and Firebase?",Yes
+"Have you worked in agile environments using Jira?",Yes
+"Do you have experience with API testing using Postman?",Yes
+"Are you proficient in version control with tools like Bitbucket?",Yes
+"Have you developed full-stack applications using JavaScript, React, Node.js, and MongoDB?",Yes
+"Have you contributed to the development of responsive and user-centric web interfaces?",Yes
+"Have you optimized APIs for scalability and reduced response times?",Yes
+"Have you enhanced user experience by developing key website components and pages?",Yes
+"Have you collaborated with team members to resolve complex technical challenges?",Yes
+"Have you promoted a culture of innovation and continuous improvement?",Yes
+"Have you contributed to the full development lifecycle of software projects?",Yes
+"Do you have experience with frontend development using frameworks like Vue.js, React.js, and Nuxt.js?",Yes
+"Have you worked on backend integration using Node.js and MongoDB?",Yes
+"Do you have experience with HTML, CSS, and JavaScript for web development?",Yes
+"Have you utilized Bootstrap and Tailwind CSS for styling and layout?",Yes
+"Are you proficient in using tools like Jira for project management?",Yes
+"Have you conducted manual testing to ensure software functionality?",Yes
+"Have you developed user-centric interfaces for SaaS products?",Yes
+"Do you have experience with developing interactive web-excel sheets?",Yes
+"Have you worked on cryptocurrency tracking applications using React JS and Material UI?",Yes
+"Are you proficient in using GitHub for version control and collaboration?",Yes
+"Are you familiar with cloud platforms like AWS?",Yes
+"Do you have experience with code editors like IntelliJ, VS Code, and PyCharm?",Yes
+"Are you comfortable working in agile environments using Jira?",Yes
+"Do you have experience with API testing tools like Postman?",Yes
+"Are you proficient in version control with Bitbucket?",Yes
+"Have you used Netlify or Firebase for deploying applications?",Yes
+"Do you have experience with PowerShell and SSH tools like PuTTY?",Yes
+"Have you used FileZilla for managing file transfers?",Yes
+"Have you developed applications using frameworks like Vue.js, React.js, and Nuxt.js?",Yes
+"Do you have experience with backend technologies like Node.js and MongoDB?",Yes
+"Are you proficient in HTML, CSS, and JavaScript?",Yes
+"Have you used styling frameworks like Bootstrap and Tailwind CSS?",Yes
+"Are you familiar with project management tools like Jira?",Yes
+"Have you conducted testing to ensure software quality?",Yes
+"Do you have experience developing user-centric web interfaces?",Yes
+"Have you optimized web application performance and scalability?",Yes
+"Have you developed intuitive interfaces for SaaS products?",Yes
+"Do you have experience with real-time cryptocurrency tracking apps?",Yes
+"Are you proficient in using GitHub for version control?",Yes
+"Are you familiar with cloud platforms like AWS?",Yes
+"Do you have experience with code editors like IntelliJ, VS Code, and PyCharm?",Yes
+"Are you comfortable working in agile environments?",Yes
+"Do you have experience with API testing tools like Postman?",Yes
+"Are you proficient in version control tools like Bitbucket?",Yes
+"Have you deployed applications using Netlify or Firebase?",Yes
+"Do you have experience with PowerShell and SSH tools like PuTTY?",Yes
+"Have you used FileZilla for file transfer management?",Yes
+Describe your experience with Continuous Integration/Continuous Deployment (CI/CD).,Yes
+Describe your experience with Continuous Integration/Continuous Deployment (CI/CD).,"I have implemented CI/CD pipelines using tools like Jenkins and GitLab CI. This has streamlined our deployment process, allowing for automated testing, building, and deployment of code changes, ensuring that our applications are always in a deployable state."
+How do you manage and organize your codebase in a full-stack project?,I organize the codebase by separating the frontend and backend code into distinct directories. I use version control systems like Git to manage changes and ensure that the code is well-documented and follows a consistent style guide.
+What is your approach to API design and implementation?,I start by understanding the requirements and designing the API endpoints. I use RESTful principles to ensure that the API is stateless and resource-oriented. I also implement thorough testing to ensure the API is robust and handles edge cases effectively.
+How do you ensure the scalability of your applications?,"I ensure scalability by designing the application to handle increased load through techniques like load balancing, database sharding, and caching. I also use cloud services that can automatically scale resources based on demand."
+Describe your experience with serverless architectures.,I have worked with serverless architectures using AWS Lambda and Azure Functions. These have allowed me to build scalable and cost-effective applications without the need to manage server infrastructure.
+How do you handle real-time data updates in your applications?,"I use WebSockets and technologies like Socket.io to handle real-time data updates. This allows for a persistent connection between the client and server, enabling instant data transfer and updates."
+What is your approach to logging and monitoring in full-stack development?,"I use centralized logging solutions like ELK stack (Elasticsearch, Logstash, Kibana) and monitoring tools like Prometheus and Grafana. These tools help me track application performance and quickly identify and resolve issues."
+"Describe your experience with third-party integrations (e.g., payment gateways, social logins).","I have integrated various third-party services, including payment gateways like Stripe and PayPal, and social login providers like Google and Facebook. This involved handling OAuth flows and ensuring secure and seamless user experiences."
+How do you handle data caching in your applications?,I use caching solutions like Redis and Memcached to store frequently accessed data. This reduces the load on the database and improves application performance by serving data from the cache.
+What strategies do you use for database optimization?,"I use indexing, query optimization, and database normalization techniques to optimize database performance. I also monitor query performance and use tools to analyze and improve slow queries."
+How do you stay up-to-date with the latest technologies and best practices in full-stack development?,"I stay up-to-date by following industry blogs, attending webinars, and participating in online communities. I also take online courses and read documentation for new tools and technologies."
+Do you have experience with JavaScript ES6+ features?,"Yes, I have extensive experience with ES6+ features such as arrow functions, template literals, destructuring, and async/await. These features have improved the readability and maintainability of my code."
+Are you proficient with CSS preprocessors like SASS or LESS?,"Yes, I am proficient with SASS and LESS. I use them to write modular and maintainable CSS, taking advantage of features like variables, mixins, and nesting."
+Have you worked with task runners like Gulp or Grunt?,"Yes, I have used Gulp and Grunt for automating tasks such as minification, compilation, and linting. These tools have helped streamline my development workflow."
+Do you have experience with module bundlers like Webpack?,"Yes, I have used Webpack extensively for bundling JavaScript modules. It has helped me manage dependencies and optimize the performance of my web applications."
+Have you implemented responsive web design using media queries?,"Yes, I have implemented responsive designs using media queries to ensure that applications work well on various screen sizes and devices. This has improved the user experience across different platforms."
+Do you have experience with AJAX and Fetch API for handling asynchronous requests?,"Yes, I have experience with both AJAX and the Fetch API for making asynchronous HTTP requests. These techniques have enabled me to build dynamic and interactive web applications."
+Have you used CSS-in-JS libraries like styled-components or Emotion?,"Yes, I have used styled-components and Emotion for writing CSS within JavaScript. This approach has allowed me to manage styles more effectively and create component-based designs."
+
+"i identify as one or more of the classifications of protected veteran listed above
+i am not a protected veteran
+i don't wish to answer",user provided
+"yes, i have a disability, or have a history/record of having a disability
+no, i don't have a disability, or a history/record of having a disability
+i don't wish to answer",user provided
+your name,user provided
+,user provided

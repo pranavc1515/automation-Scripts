@@ -1,5 +1,5 @@
 from __future__ import annotations
-
+  # all rights reserve with https://github.com/pranavc1515
 import json
 import csv
 import logging
@@ -95,7 +95,7 @@ class EasyApplyBot:
         self.appliedJobIDs: list = past_ids if past_ids != None else []
         self.filename: str = filename
         self.options = self.browser_options()
-        self.browser = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=self.options)
+        self.browser = webdriver.Chrome(service=ChromeService(executable_path=r'D:\AutomationScript\chromedriver.exe'), options=self.options)
         self.wait = WebDriverWait(self.browser, 30)
         self.blacklist = blacklist
         self.blackListTitles = blackListTitles

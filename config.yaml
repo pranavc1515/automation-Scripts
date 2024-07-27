@@ -6,26 +6,28 @@ profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\G
 
 
 positions:
-- Software Engineer
+- Full stack developer
 
 
 locations:
 - Michigan
 - Remote
 
-salary: 60,000
+salary: 70,000
 rate: 25
 # --------- Optional Parameters -------
 uploads:
-  Resume: C:\Users\welcome\Downloads\LinkedIn-Easy-Apply-Bot-master (1)\LinkedIn-Easy-Apply-Bot-master\pranav-resume.pdf
-  Cover Letter: C:\Users\welcome\Downloads\LinkedIn-Easy-Apply-Bot-master (1)\LinkedIn-Easy-Apply-Bot-master\pranav-resume.pdf
+  Resume: D:\AutomationScript\pranav-resume.pdf
+  Cover Letter: D:\AutomationScript\pranav-resume.pdf
   #Photo: # PATH TO photo
 
 
 output_filename:
-- /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/out.csv
+- D:\AutomationScript\out.csv
 
 # blacklist:
+#   - 'metapercept technology services'
+#   - 'avathi ventures private limited'
 # - # Company names you want to ignore
 
 experience_level:
